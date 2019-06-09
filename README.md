@@ -30,7 +30,9 @@ How to run it:
 
 You can download Eclipse here: https://www.eclipse.org/downloads/
 Download file.
-Open Eclipse.
-Click on File -> Open File... -> main.java
-Then follow the instructions.
 
+Open Eclipse.
+
+Click on File -> Open File... -> main.java
+
+Then follow the instructions.
